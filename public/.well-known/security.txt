@@ -1,0 +1,8 @@
+# SellerMath Security & Vulnerability Disclosure (RFC 9116)
+Contact: mailto:hgoraya522@gmail.com
+Expires: 2027-12-31T23:59:59.000Z
+Preferred-Languages: en
+Canonical: https://sellermath.com/.well-known/security.txt
+Policy: https://sellermath.com/security
+Acknowledgments: https://sellermath.com/security
+Hiring: https://sellermath.com/about
