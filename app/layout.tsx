@@ -48,6 +48,9 @@ export const metadata: Metadata = {
     title: `${siteConfig.brandName} | ${siteConfig.tagline}`,
     description: siteConfig.description,
   },
+  verification: {
+    google: '2EryGsTx9nUnwgzE9uJalsWjh0-YCQvdypO8ccNsMR0',
+  },
 };
 
 export default function RootLayout({
